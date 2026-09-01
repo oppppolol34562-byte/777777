@@ -1,0 +1,2 @@
+[functions.moderate-content]
+verify_jwt = true
